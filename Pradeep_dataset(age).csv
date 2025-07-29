@@ -1,0 +1,100 @@
+Age,price,Profession,Marrital Status,Education,Personal loan,Total Salary,No of Dependents
+27,800000,Salaried,Single,Post Graduate,Yes,800000,0
+35,1000000,Salaried,Married,Post Graduate,Yes,2000000,2
+45,1200000,Business,Married,Graduate,Yes,1800000,4
+41,1200000,Business,Married,Post Graduate,No,2200000,3
+31,1600000,Salaried,Married,Post Graduate,Yes,2600000,2
+28,700000,Salaried,Married,Graduate,Yes,900000,3
+31,1200000,Salaried,Married,Graduate,No,1800000,4
+33,700000,Business,Married,Post Graduate,No,1400000,4
+34,1100000,Business,Married,Post Graduate,No,2000000,4
+34,800000,Salaried,Married,Graduate,Yes,1900000,3
+35,1600000,Salaried,Married,Post Graduate,No,2000000,4
+35,700000,Salaried,Married,Graduate,Yes,1400000,4
+29,110000,Salaried,Married,Post Graduate,No,1700000,0
+30,800000,Business,Single,Post Graduate,Yes,1400000,2
+31,700000,Business,Married,Graduate,Yes,1300000,3
+49,3000000,Salaried,Married,Post Graduate,No,4500000,4
+26,800000,Salaried,Single,Post Graduate,No,800000,0
+27,700000,Salaried,Single,Graduate,Yes,800000,0
+29,1200000,Salaried,Single,Post Graduate,No,900000,2
+30,700000,Salaried,Married,Graduate,No,1300000,0
+37,1200000,Salaried,Married,Post Graduate,No,2500000,3
+35,800000,Business,Married,Graduate,No,1900000,3
+36,1600000,Business,Married,Graduate,No,2400000,3
+35,700000,Business,Married,Post Graduate,No,1400000,4
+35,1100000,Salaried,Married,Graduate,Yes,2000000,3
+35,1600000,Salaried,Married,Graduate,No,2900000,2
+35,700000,Salaried,Married,Post Graduate,Yes,1300000,4
+36,800000,Business,Married,Graduate,No,1600000,3
+36,1200000,Salaried,Married,Post Graduate,Yes,2600000,3
+36,1600000,Salaried,Married,Post Graduate,No,2700000,2
+41,700000,Business,Married,Graduate,No,1100000,3
+41,1300000,Salaried,Married,Graduate,No,2100000,3
+41,1500000,Salaried,Married,Post Graduate,No,3000000,4
+43,1500000,Business,Married,Graduate,No,2200000,3
+42,1100000,Salaried,Married,Graduate,Yes,2100000,4
+42,1600000,Salaried,Married,Post Graduate,No,3700000,3
+29,1200000,Business,Married,Post Graduate,No,1600000,0
+30,1500000,Salaried,Married,Post Graduate,No,2100000,0
+30,1600000,Business,Single,Post Graduate,No,1400000,0
+31,1100000,Salaried,Married,Graduate,No,2200000,0
+31,800000,Business,Married,Post Graduate,Yes,1700000,3
+32,1100000,Business,Married,Post Graduate,No,1400000,0
+32,1600000,Salaried,Married,Graduate,No,2400000,0
+34,1300000,Salaried,Married,Post Graduate,No,2300000,3
+34,800000,Salaried,Married,Post Graduate,Yes,1600000,2
+34,1500000,Salaried,Married,Graduate,No,3600000,3
+36,1100000,Business,Married,Graduate,No,200000,4
+36,1300000,Business,Married,Graduate,No,2600000,2
+36,800000,Salaried,Married,Post Graduate,No,1600000,2
+36,1500000,Salaried,Married,Graduate,Yes,3100000,3
+49,1300000,Business,Married,Post Graduate,No,2000000,4
+49,1600000,Salaried,Married,Post Graduate,No,4300000,3
+44,1600000,Salaried,Married,Post Graduate,No,2700000,4
+44,1500000,Business,Married,Post Graduate,No,3800000,3
+41,3000000,Salaried,Married,Graduate,No,4700000,2
+41,1500000,Salaried,Married,Post Graduate,Yes,3100000,3
+41,1100000,Salaried,Married,Graduate,No,2600000,3
+27,700000,Salaried,Single,Post Graduate,No,1100000,0
+27,1100000,Business,Single,Graduate,No,1200000,0
+28,700000,Salaried,Single,Graduate,Yes,900000,0
+28,1200000,Salaried,Single,Post Graduate,No,1400000,0
+30,1500000,Salaried,Single,Post Graduate,No,1500000,0
+31,1500000,Business,Single,Graduate,No,2000000,0
+31,700000,Salaried,Married,Post Graduate,Yes,1800000,3
+31,1100000,Salaried,Married,Graduate,No,2100000,2
+39,700000,Business,Married,Post Graduate,No,1600000,3
+39,1500000,Business,Married,Graduate,Yes,3600000,2
+39,1200000,Salaried,Married,Post Graduate,No,1900000,2
+39,1500000,Salaried,Married,Post Graduate,Yes,4000000,2
+37,1200000,Business,Married,Graduate,No,1700000,3
+37,1500000,Business,Married,Post Graduate,No,2700000,2
+37,1600000,Salaried,Married,Post Graduate,No,3200000,2
+37,700000,Salaried,Married,Graduate,No,1300000,2
+35,1600000,Salaried,Married,Post Graduate,No,2500000,0
+36,1200000,Business,Married,Graduate,No,2000000,0
+36,1500000,Salaried,Married,Post Graduate,No,3600000,2
+36,800000,Business,Married,Post Graduate,Yes,1900000,2
+36,1600000,Business,Married,Graduate,No,2900000,3
+44,1500000,Salaried,Married,Post Graduate,No,3100000,3
+45,1600000,Salaried,Married,Post Graduate,No,4500000,2
+46,800000,Salaried,Married,Graduate,Yes,2100000,3
+44,1600000,Business,Married,Graduate,No,5200000,2
+43,1100000,Salaried,Married,Post Graduate,Yes,2400000,3
+42,1300000,Salaried,Married,Post Graduate,No,2900000,2
+42,800000,Salaried,Married,Graduate,Yes,2700000,3
+42,700000,Business,Married,Post Graduate,Yes,1800000,3
+29,700000,Business,Single,Graduate,Yes,1100000,0
+33,1200000,Salaried,Married,Post Graduate,No,2200000,2
+34,1500000,Salaried,Married,Graduate,No,4100000,2
+34,700000,Business,Married,Post Graduate,Yes,1900000,3
+35,800000,Salaried,Married,Graduate,No,1400000,2
+36,1600000,Salaried,Married,Post Graduate,Yes,4900000,3
+37,1200000,Salaried,Married,Graduate,No,2800000,2
+27,700000,Salaried,Single,Post Graduate,No,900000,0
+27,1600000,Business,Single,Graduate,No,2400000,0
+50,1600000,Salaried,Married,Post Graduate,No,5100000,3
+51,1100000,Business,Married,Graduate,Yes,2200000,2
+51,1500000,Salaried,Married,Post Graduate,No,4000000,2
+51,1100000,Salaried,Married,Post Graduate,Yes,2200000,2
